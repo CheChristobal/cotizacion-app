@@ -1,0 +1,12 @@
+[
+  { "index": 1, "nombre": "Producto A", "local": "Local A", "precio": 10 },
+  { "index": 2, "nombre": "Producto B", "local": "Local A", "precio": 15 },
+  { "index": 3, "nombre": "Producto C", "local": "Local B", "precio": 20 },
+  { "index": 4, "nombre": "Producto A", "local": "Local B", "precio": 9 },
+  { "index": 5, "nombre": "Producto B", "local": "Local B", "precio": 16 },
+  { "index": 6, "nombre": "Producto C", "local": "Local C", "precio": 22 },
+  { "index": 7, "nombre": "Producto D", "local": "Local C", "precio": 8 },
+  { "index": 8, "nombre": "Producto E", "local": "Local C", "precio": 13 },
+  { "index": 9, "nombre": "Producto F", "local": "Local A", "precio": 18 },
+  { "index": 10, "nombre": "Producto G", "local": "Local B", "precio": 12 }
+]
